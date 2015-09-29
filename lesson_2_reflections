@@ -14,7 +14,7 @@ git branch - d BRANCH = delete branch
 
 git checkout --b new_branch
 
-git restet --hard = discards changes in working directory or staging area, if changes have not been committed they are gone
+git reset --hard = discards changes in working directory or staging area, if changes have not been committed they are gone
 
 git diff with NO arguments will show changes you haven't added to staging area yet!
 
